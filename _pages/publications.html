@@ -5,32 +5,58 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="paper-card">
 
-{% include base_path %}
+  <h2>
+    3D-Printed Micro-pore Evaporator for Increasing Concentration
+    of Analytes in Aqueous Solutions
+  </h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <img
+    class="paper-graphic"
+    src="{{ '/images/micropore-evaporator.png' | relative_url }}"
+    alt="Graphical abstract of the micropore evaporator"
+  >
 
+  <p>
+    <strong>Yufeng Su</strong> and Torsten Hutter
+  </p>
 
+  <p>
+    <em>Lab on a Chip</em>, 2025
+  </p>
 
+  <p>
+    <a href="https://doi.org/10.1039/D5LC00329F">
+      Journal
+    </a>
+    ·
+    <a href="{{ '/files/micropore-evaporator.pdf' | relative_url }}">
+      PDF
+    </a>
+  </p>
+
+  <details class="paper-abstract">
+    <summary><strong>Read abstract</strong></summary>
+
+    <p>
+      To address the detection limit challenges of analytical instruments at low concentrations, this study
+explores the development of a concentrator, fabricated via micro-3D printing technology, relying on
+solvent evaporation through micro-pores. The operating temperature can be as low as room temperature,
+allowing for compatibility with biomolecules that are sensitive to high temperatures. Moreover, the device
+is suitable for processing small sample volumes ranging from hundreds to tens of microliters. There are
+three designs of the hydrophilic biocompatible polymer tube, each featuring micro-pores with diameters
+of 30, 50 and 70 μm, spaced at distances of 150, 250 and 350 μm, respectively. All designs have the same
+total length of 16 mm and identical contact surface area. The tube is surrounded by an outer tube for a
+sweeping gas at a flow between 20 and 100 mL min−1 for evaporation rate control. Theoretical calculations
+and experimental data were used to quantify device's performance and capabilities. Experiments conducted
+with deionized water and with aqueous glucose solutions demonstrate the device's capability to achieve
+up to a 10-fold concentration increase. The study also addresses potential issues such as analyte loss and
+the influence of various parameters like sweeping gas flow rates and liquid feeding rates on the
+concentration process. This work demonstrates the potential of the micro-3D printed device as a reliable
+and efficient method for sample concentration, critical for enhancing detection sensitivities for various
+applications such as bioassays and biosensors.
+    </p>
+  </details>
+
+</div>
