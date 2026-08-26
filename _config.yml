@@ -23,7 +23,7 @@ repository               :
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "Ufan.jpg"
   name             : "Yufeng Su"
   pronouns         : # example: "she/her"  
   bio              : "PhD researcher working on microfluidics, thermal-fluid systems, and spectroscopy"
