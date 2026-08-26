@@ -9,6 +9,9 @@ location: "Austin, Texas"
 ---
 
 Presented at Defense TechConnect in Austin, Texas, in December 2024.
+
+<!--more-->
+
 <div class="poster-container">
   <iframe
     src="/files/defense_preconcentrator.pdf#view=FitH"
