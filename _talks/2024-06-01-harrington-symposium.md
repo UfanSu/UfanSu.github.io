@@ -15,7 +15,6 @@ Presented at the Harrington Symposium on Optical Methods in Quantitative Bio-Ima
 <div class="poster-container">
   <iframe
     src="/files/coffeering.pdf#page=1&view=FitH&toolbar=0&navpanes=0"
-    title="Optical Photothermal Infrared Spectroscopy Poster"
     width="100%"
     height="1000px"
     loading="lazy">
