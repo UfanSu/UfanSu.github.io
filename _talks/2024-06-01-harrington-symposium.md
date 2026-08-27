@@ -10,8 +10,6 @@ location: "The University of Texas at Austin, Austin, Texas"
 
 Presented at the Harrington Symposium on Optical Methods in Quantitative Bio-Imaging: Concept to Application at The University of Texas at Austin in June 2024.
 
-Presented at the Harrington Symposium on Optical Methods in Quantitative Bio-Imaging: Concept to Application at The University of Texas at Austin in June 2024.
-
 <!--more-->
 
 <div class="poster-container">
