@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher in Mechanical Engineering at The University of Texas at Austin. My research combines microfluidics, heat and mass transfer, microfabrication, and infrared spectroscopy to develop compact systems for sample preconcentration and chemical analysis. I am also interested in extending this background toward thermal management and single/two phases liquid-cooling technologies for high-power electronics and data centers.
+I am a PhD researcher in Mechanical Engineering at The University of Texas at Austin. My research combines microfluidics, heat and mass transfer, microfabrication, and spectroscopy to develop compact systems for sample preconcentration. I am also interested in extending this background toward thermal management and single/two phases liquid-cooling technologies for high-power electronics and data centers.
 
 
 ## Education
