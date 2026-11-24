@@ -18,6 +18,8 @@ I am a PhD researcher in Mechanical Engineering at The University of Texas at Au
 
 ## Recent Highlights
 
+2026 — Published a first-author article on a portable evaporative preconcentration platform with continuous real-time UV spectroscopy in *Analytical and Bioanalytical Chemistry*.
+
 2026 — Published a first-author article on quantitative FTIR analysis in *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy*.
 
 2025 — Published a first-author article on a 3D-printed micro-pore evaporator in *Lab on a Chip*.
